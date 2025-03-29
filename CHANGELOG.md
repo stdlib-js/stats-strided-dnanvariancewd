@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`30c7f66`](https://github.com/stdlib-js/stdlib/commit/30c7f66bf1c1808fb777e8bb93553d92b6d39113) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`cfda4bd`](https://github.com/stdlib-js/stdlib/commit/cfda4bd11cddf406884d827c6620bec3ca692eee) - **feat:** add `stats/strided/dnanvariancewd` _(by Aayush Khanna)_
 
 </details>
